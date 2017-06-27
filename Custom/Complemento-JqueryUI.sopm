@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_package version="1.1">
+    <Name>JQuery-UI-Full</Name>
+    <Version>1.11.4</Version>
+    <Vendor>Complemento - Liberdade e Tecnologia</Vendor>
+    <URL>http://www.complemento.net.br/</URL>
+    <License>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</License>
+    <Description Lang="en">JQuery-UI-Full</Description>
+    <Framework>5.0.x</Framework>
+    <Filelist>
+        <File Location="var/httpd/htdocs/js/thirdparty/jquery-ui-1.11.4/jquery-ui.js" Permission="644"></File>
+        <File Location="Custom/Complemento-JqueryUI.sopm" Permission="644"></File>
+    </Filelist>
+</otrs_package>
