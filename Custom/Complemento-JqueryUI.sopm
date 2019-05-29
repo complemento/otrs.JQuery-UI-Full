@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <otrs_package version="1.1">
     <Name>JQuery-UI-Full</Name>
-    <Version>6.0.0</Version>
+    <Version>6.0.1</Version>
     <Vendor>Ligero [Community]</Vendor>
     <URL>http://www.complemento.net.br/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</License>
     <Description Lang="en">JQuery-UI-Full</Description>
     <Framework>6.0.x</Framework>
     <Filelist>
-        <File Location="var/httpd/htdocs/js/thirdparty/jquery-ui-1.11.4/jquery-ui.js" Permission="644"></File>
         <File Location="Custom/Complemento-JqueryUI.sopm" Permission="644"></File>
+        <File Location="var/httpd/htdocs/js/thirdparty/jquery-ui-1.12.1/jquery-ui.js" Permission="644"></File>
+        <File Location="var/httpd/htdocs/skins/Agent/default/css/thirdparty/ui-theme/images/ui-icons_444444_256x240.png" Permission="644"></File>
+        <File Location="var/httpd/htdocs/skins/Agent/default/css/thirdparty/ui-theme/images/ui-icons_555555_256x240.png" Permission="644"></File>
+        <File Location="var/httpd/htdocs/skins/Agent/default/css/thirdparty/ui-theme/images/ui-icons_777620_256x240.png" Permission="644"></File>
+        <File Location="var/httpd/htdocs/skins/Agent/default/css/thirdparty/ui-theme/images/ui-icons_777777_256x240.png" Permission="644"></File>
+        <File Location="var/httpd/htdocs/skins/Agent/default/css/thirdparty/ui-theme/images/ui-icons_cc0000_256x240.png" Permission="644"></File>
+        <File Location="var/httpd/htdocs/skins/Agent/default/css/thirdparty/ui-theme/images/ui-icons_ffffff_256x240.png" Permission="644"></File>
+        <File Location="var/httpd/htdocs/skins/Agent/default/css/thirdparty/ui-theme/jquery-ui.css" Permission="644"></File>
     </Filelist>
 </otrs_package>
